@@ -2,6 +2,7 @@
 Evaluates the fine tuned model of Qwen3 0.6B model for medical purposes. Code example for model evaluation.
 
 ## OUTPUT: 
+'''text
 Loss Lenght: 50
 Sum: 50
 Base Model Perplexity: 24.41
